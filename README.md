@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esha Shah</h1>
 <h3 align="center">A passionate web developer and data enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Python, Tableau, Gcp, Front-end**
+- 🌱 I’m currently learning **Python, Tableau, Front-end**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Esha-shah/Projects](https://github.com/Esha-shah/Projects)
+- 👨‍💻 All of my projects are available at [Esha-shah/Projects](Esha-shah/Projects)
 
 - 📫 How to reach me **eshaashah2002@gmail.com**
 
