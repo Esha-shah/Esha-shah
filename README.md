@@ -58,15 +58,6 @@
 
 <!-- Power Platform -->
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/></a>
-<a href="https://powerautomate.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="Power Automate" width="40" height="40"/></a>
-<a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-powerapps.png" alt="Power Apps" width="40" height="40"/></a>
-
-<!-- BI / Visualization -->
-<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://www.gstatic.com/lookerstudio/images/favicon_96.png" alt="Looker Studio" width="40" height="40"/></a>
-<a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/></a>
-
-<!-- APIs & Cloud -->
-<a href="https://learn.microsoft.com/en-us/graph/overview" target="_blank"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-graph.svg" alt="Microsoft Graph API" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/azure/logic-apps/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logic Apps" width="40" height="40"/></a>
 
 <!-- Dev Tools -->
