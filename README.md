@@ -53,7 +53,6 @@
 <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Data Factory" width="40" height="40"/></a>
 <a href="https://www.snowflake.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Snowflake" width="40" height="40"/></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/></a>
-<a href="https://learn.microsoft.com/en-us/sql/integration-services/" target="_blank"><img src="https://learn.microsoft.com/en-us/sql/integration-services/media/ssis-logo.png" alt="SSIS" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/></a>
 
 <!-- Power Platform -->
