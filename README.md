@@ -32,13 +32,40 @@
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<!-- Programming Languages -->
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+
+<!-- Database & ETL -->
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="adf" width="40" height="40"/></a>
+<a href="https://www.snowflake.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="snowflake" width="40" height="40"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server/integration-services" target="_blank"><img src="https://learn.microsoft.com/en-us/sql/integration-services/media/ssis-logo.png" alt="ssis" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/></a>
+
+<!-- Power Platform & BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/></a>
+<a href="https://flow.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="powerautomate" width="40" height="40"/></a>
+<a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-powerapps.png" alt="powerapps" width="40" height="40"/></a>
+<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://www.gstatic.com/lookerstudio/images/favicon_96.png" alt="looker studio" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+
+<!-- Web Development -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
+
+<!-- APIs -->
+<a href="https://learn.microsoft.com/en-us/graph/overview" target="_blank"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-graph.svg" alt="graph api" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/azure/logic-apps/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/azure-logic-apps-icon-512x512-m86jfwzk.png" alt="logic app" width="40" height="40"/></a>
+
 </p>
+
